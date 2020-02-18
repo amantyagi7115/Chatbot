@@ -7,3 +7,9 @@ In this Python project, i tried to build a chatbot using deep learning technique
 Let’s create a retrieval based chatbot using NLTK, Keras, Python, etc.
 
 requirements: pip install tensorflow, keras, pickle, nltk
+
+OUTPUT:
+
+![](chatbot-result.png)
+
+![](chat-between-user-bot.png)
